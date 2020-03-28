@@ -1,4 +1,3 @@
-## Reference: https://en.wikipedia.org/wiki/Nested_sampling_algorithm
 ## Computing marginal posterior probability density
 ## More on defining prior_vector, iterations, likelihood_vector to be included
 likelihood = []
